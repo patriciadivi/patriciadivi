@@ -1,21 +1,19 @@
- 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="150px" width="30px">,
-  eu sou a Patrícia Dias Viana
-</h1><br>
-
+<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/patriciadivi/31432328af375086fb1985655d9bdbb6/raw/9c8d0de572c6c3e621d9bcf9dbd51af4f6f9b64b/cardpatriciadivi.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="185em" width="20px">,
+eu sou a Patricia Dias Viana</h1><br>
 
   ### 👩🏻‍💻 Sobre mim:
     
-    - 🎓 Formada em Análise e Desenvolvimento de Sistemas | Faculdade das Américas - FAM
+    - 🎓 Formada em Análise e Desenvolvimento de Sistemas | FAM
     - 🌱 Estudando Frond-End | Back-End
     - 🎂 27 anos.
-    - 👯 Estou procurando colaborar em projetos relacionados ao desenvolvimento da Web
+    - 👯 Procurando colaborar em projetos relacionados ao desenvolvimento da Web
     - ❤️ Amo assistir series e filmes
     - 👨‍👩‍👧‍👧 Filha de Jo e Viana | Irmã de Viviane
     - 🐶 Mãe de 3 dogs | 🐕 Pitt ✝️ Laila ✝️ Trovão
     - 👣 Trilhando pelo crescimento!
 
-<br>
+<br><br>
 <div align="center">
   
   <h1> ⚙️ &nbsp;GitHub Análise </h1>
@@ -67,6 +65,9 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
-<h1>Obrigada por estar aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="90px"></h1>
+<h1>
+ Obrigada por estar aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="90px">
+ <img align="rigth" height="120em" src="https://raw.githubusercontent.com/gist/patriciadivi/aad92d33edb601aee79553e5712a08d2/raw/0d4fe0bf9cb584d4b496fede15d979a766f15a22/patriciadivicard.svg"/>
+</h1>
   
 </div>

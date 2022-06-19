@@ -74,7 +74,7 @@ eu sou a Patricia Dias Viana</h1><br>
  
 <h1>
  Obrigada por estar aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px" height="90px">
- <img align="rigth" height="120em" src="https://raw.githubusercontent.com/gist/patriciadivi/aad92d33edb601aee79553e5712a08d2/raw/0d4fe0bf9cb584d4b496fede15d979a766f15a22/patriciadivicard.svg"/>
+ <img align="rigth" height="100em" src="https://raw.githubusercontent.com/gist/patriciadivi/aad92d33edb601aee79553e5712a08d2/raw/0d4fe0bf9cb584d4b496fede15d979a766f15a22/patriciadivicard.svg"/>
 </h1>
   
 </div>

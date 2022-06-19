@@ -18,6 +18,8 @@ eu sou a Patricia Dias Viana</h1><br>
     
     - 🐶 Mãe de 3 dogs | 🐕 Pitt ✝️ Laila ✝️ Trovão
     
+    - 💘 Um Lindo amor | Isabella
+    
     - 👣 Trilhando pelo crescimento!
 
 <br><br>

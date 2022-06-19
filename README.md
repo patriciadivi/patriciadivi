@@ -15,11 +15,7 @@
     - 👣 Trilhando pelo crescimento!
 
 <br>
-
-----
-
-<br>
-<div align="center">
+<div style="display: inline_block" align="center">
   
   <h1> ⚙️ &nbsp;GitHub Análise </h1>
   <br>

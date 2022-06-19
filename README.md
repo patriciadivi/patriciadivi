@@ -5,12 +5,19 @@ eu sou a Patricia Dias Viana</h1><br>
   ### 👩🏻‍💻 Sobre mim:
     
     - 🎓 Formada em Análise e Desenvolvimento de Sistemas | FAM
+    
     - 🌱 Estudando Frond-End | Back-End
+    
     - 🎂 27 anos.
+    
     - 👯 Procurando colaborar em projetos relacionados ao desenvolvimento da Web
+    
     - ❤️ Amo assistir series e filmes
+    
     - 👨‍👩‍👧‍👧 Filha de Jo e Viana | Irmã de Viviane
+    
     - 🐶 Mãe de 3 dogs | 🐕 Pitt ✝️ Laila ✝️ Trovão
+    
     - 👣 Trilhando pelo crescimento!
 
 <br><br>

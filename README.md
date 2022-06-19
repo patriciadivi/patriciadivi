@@ -8,6 +8,7 @@
     
     - 🎓 Formada em Analise e Desenvolvimento de Sistemas | Faculdade das Américas - FAM
     - 🌱 Estudando Frond-End | Back-End
+    - 🎂 27 anos.
     - 👯 Estou procurando colaborar em projetos relacionados ao desenvolvimento da Web
     - ❤️ Amo assistir series e filmes
     - 👨‍👩‍👧‍👧 Filha de Jo e Viana | Irmã de Viviane
@@ -21,8 +22,8 @@
   <br>
   
   <a href="https://github.com/patriciadivi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patriciadivi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadivi&layout=compact&langs_count=7&theme=dracula"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciadivi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciadivi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>

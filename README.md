@@ -10,7 +10,7 @@ eu sou a Patricia Dias Viana</h1><br>
     
     - 🎂 27 anos.
     
-    - 👯 Procurando colaborar em projetos relacionados ao desenvolvimento da Web
+    - 👯 Procurando colaborar em projetos relacionados a desenvolvimento Web
     
     - ❤️ Amo assistir series e filmes
     

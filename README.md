@@ -15,9 +15,9 @@
     - 👣 Trilhando pelo crescimento!
 
 <br>
-<div style="display: inline_block" align="center">
+<div style="display: inline_block">
   
-  <h1> ⚙️ &nbsp;GitHub Análise </h1>
+  <h1 align="center"> ⚙️ &nbsp;GitHub Análise </h1>
   <br>
   
   <a href="https://github.com/patriciadivi">

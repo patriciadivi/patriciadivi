@@ -1,12 +1,12 @@
  
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="150px" width="30px">,
   eu sou a Patrícia Dias Viana
 </h1><br>
 
 
-  ### 👨🏻‍💻 Sobre mim:
+  ### 👩🏻‍💻 Sobre mim:
     
-    - 🎓 Formada em Analise e Desenvolvimento de Sistemas | Faculdade das Américas - FAM
+    - 🎓 Formada em Análise e Desenvolvimento de Sistemas | Faculdade das Américas - FAM
     - 🌱 Estudando Frond-End | Back-End
     - 🎂 27 anos.
     - 👯 Estou procurando colaborar em projetos relacionados ao desenvolvimento da Web

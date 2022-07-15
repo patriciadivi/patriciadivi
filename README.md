@@ -1,5 +1,5 @@
 <img align="right" height="562em" src="https://raw.githubusercontent.com/gist/patriciadivi/31432328af375086fb1985655d9bdbb6/raw/9c8d0de572c6c3e621d9bcf9dbd51af4f6f9b64b/cardpatriciadivi.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="100em" width="20px">,
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="100em" width="60px">,
 eu sou a Patricia Dias Viana</h1><br>
 
   ### 👩🏻‍💻 Sobre mim:

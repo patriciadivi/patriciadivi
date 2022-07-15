@@ -7,10 +7,10 @@ eu sou a Patricia Dias Viana</h1><br>
     - 🎓 Formada em Análise e Desenvolvimento de Sistemas | FAM
     
     - 🌱 Estudando Frond-End | Back-End
-    
-    - 🎂 27 anos.
-    
+     
     - 👯 Procurando colaborar em projetos relacionados a desenvolvimento Web
+    
+    - 📢 Me Fale! Vamos debater sobre Tecnologia, jogos, vida sobre tudo.
     
     - ❤️ Amo assistir series e filmes
     

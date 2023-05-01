@@ -1,5 +1,5 @@
 <img align="right" height="562em" src="https://raw.githubusercontent.com/gist/patriciadivi/31432328af375086fb1985655d9bdbb6/raw/9c8d0de572c6c3e621d9bcf9dbd51af4f6f9b64b/cardpatriciadivi.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="100em" width="60px">,
+<h1 align="left">Olá <span height="500px" width="80px">👋🏻</span>,
 eu sou a Patricia Dias Viana</h1><br>
 
   ### 👩🏻‍💻 Sobre mim:
@@ -75,7 +75,7 @@ eu sou a Patricia Dias Viana</h1><br>
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 <h1>
- Obrigada por estar aqui! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="60px" height="100em">
+ Obrigada por estar aqui! <span height="500px" width="80px">👋🏻</span>
  <img align="rigth" height="100em" src="https://raw.githubusercontent.com/gist/patriciadivi/aad92d33edb601aee79553e5712a08d2/raw/0d4fe0bf9cb584d4b496fede15d979a766f15a22/patriciadivicard.svg"/>
 </h1>
   

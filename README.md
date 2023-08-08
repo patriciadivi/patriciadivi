@@ -10,7 +10,7 @@ eu sou a Patricia Dias Viana</h1><br>
      
     - 👯 Procurando colaborar em projetos relacionados a desenvolvimento Web
     
-    - 📢 Me Chame! Vamos debater sobre Tecnologia, jogos, vida  ou sobre tudo.
+    - 📢 Me Chame! Vamos debater sobre Tecnologia, jogos, vida ou sobre tudo.
     
     - ❤️ Amo assistir series e filmes
     

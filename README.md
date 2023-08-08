@@ -6,7 +6,7 @@ eu sou a Patricia Dias Viana</h1><br>
     
     - 🎓 Formada em Análise e Desenvolvimento de Sistemas | FAM
     
-    - 🌱 Estudando Frond-End | Back-End
+    - 🌱 Desenvolvedora Frond-End | Back-End
      
     - 👯 Procurando colaborar em projetos relacionados a desenvolvimento Web
     

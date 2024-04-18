@@ -20,7 +20,7 @@ eu sou a Patricia Dias Viana</h1><br>
     
     - 👣 Trilhando pelo crescimento!
 
-<br><br>
+<br><br><br>
 <div align="center">
   
   <h1> ⚙️ &nbsp;GitHub Análise </h1>
